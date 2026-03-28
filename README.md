@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=FFFFFF&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Yumandy+%F0%9F%91%8B;Engineer+%C2%B7+Consultant+%C2%B7+Builder;Always+down+to+connect)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=FFFFFF&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Yumandy+%F0%9F%91%8B;Engineer+%C2%B7+Consultant+%C2%B7+Builder)](https://git.io/typing-svg)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-yumandy--espinosa-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/yumandy-espinosa)
 [![Email](https://img.shields.io/badge/Email-espinosa.yumandy@ufl.edu-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:espinosa.yumandy@ufl.edu)

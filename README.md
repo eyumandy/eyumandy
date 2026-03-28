@@ -14,7 +14,7 @@
 
 ## About Me
 
-I'm a software engineer and consultant who cares about building things that actually work — for people, not just demos.
+I'm a software engineer and consultant who cares about building things.
 
 Currently finishing a dual degree in **Computer Science and Mathematics** at UF, with a minor in Statistics. I've spent time consulting at **Capgemini**, leading research at **SHPE**, and shipping products as a founder. I gravitate toward the intersection of systems thinking, data, and clean interfaces.
 
@@ -67,27 +67,3 @@ Currently finishing a dual degree in **Computer Science and Mathematics** at UF,
 > Custom AVL tree implementation for managing and organizing UF student accounts by GatorID — designed for efficient lookup, insertion, and deletion at scale.
 
 ---
-
-## GitHub Stats
-
-<div align="center">
-
-![Yumandy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=eyumandy&show_icons=true&theme=default&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=eyumandy&layout=compact&theme=default&hide_border=true)
-
-</div>
-
----
-
-## Currently
-
-- 🎓 Finishing my dual degree at UF (May 2026)
-- 🔨 Building and shipping side projects
-- 📬 Open to **SWE, data, or product roles** — reach out anytime
-
----
-
-<div align="center">
-  <i>"Build things that work. Ship things that matter."</i>
-</div>

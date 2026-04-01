@@ -13,8 +13,6 @@
 <tr>
 <td width="55%" valign="top">
 
-Good interfaces are a form of respect for the person using them. Math makes you a better engineer than picking up another framework will. The best teams I've been on had people who could zoom out as fast as they could zoom in.
-
 I'm Yumandy — CS and Mathematics at UF, stepping into consulting this year, and always building something on the side. If something in my repos catches your eye, or you just want to connect, I'm always up for it.
 
 </td>
